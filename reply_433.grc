@@ -51,7 +51,7 @@ blocks:
     alias: ''
     begin_tag: pmt.PMT_NIL
     comment: ''
-    file: /home/scare/LAB/RadioFrequencies/GNU Radio/Peugeot_208
+    file: PATH_TO_FILE
     length: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
