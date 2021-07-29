@@ -51,7 +51,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/scare/LAB/RadioFrequencies/GNU Radio/Peugeot_208
+    file: PATH_TO_FILE
     type: complex
     unbuffered: 'False'
     vlen: '1'
